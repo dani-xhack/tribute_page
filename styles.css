@@ -69,7 +69,7 @@ h1,h2,h3,h4,h5,h6 {font-size: inherit; font-weight: 400;}
   
   
   img {
-    width: max(50vh, 50vw);
+    width: max(19.2vw, 320px);
     display: block;
     margin: 0 auto;
   }
