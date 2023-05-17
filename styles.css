@@ -69,7 +69,7 @@ h1,h2,h3,h4,h5,h6 {font-size: inherit; font-weight: 400;}
   
   
   img {
-    width: max(50vh, 39vw);
+    width: max(10vh, 30vw);
     display: block;
     margin: 0 auto;
   }
@@ -104,11 +104,10 @@ h1,h2,h3,h4,h5,h6 {font-size: inherit; font-weight: 400;}
   
   blockquote {
     font-style: italic;
-    margin: 2rem 0 0 0;
+    margin: 2rem 0 4rem 0;
     text-align: left;
   }
 
   footer {
-    margin: 4rem 0 0 0;
-    text-align: center;
+      text-align: center;
   }
